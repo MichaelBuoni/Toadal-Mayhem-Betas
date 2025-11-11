@@ -1,4 +1,5 @@
-# Toadal Mayhem
+![](images/filename7d2e47ee-11dc-4681-8572-7737464c2ccc.png)
+
 Welcome! This is the repository for Toadal Mayhem! I (Michael Buoni) have been working on this game mostly by myself since the beginning of August this year.
 
 ## Gameplay
