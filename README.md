@@ -1,6 +1,9 @@
 <img src="images/7d2e47ee-11dc-4681-8572-7737464c2ccc.png" width="1680">
 Welcome! This is the repository for Toadal Mayhem! I (Michael Buoni) have been working on this game mostly by myself since the beginning of August this year.
 
+## JOIN THE DISCORD SERVER!
+Link: https://discord.gg/bzfdMNxA (If you want to contact me, my username is ASignificantSpek)
+
 ## Gameplay
 It is a 2D platformer game, meaning the main goal is to get to the other side of each level. Additionally, you can grab onto walls and jump off of them, and you can also use your tongue to stop time and retract it to move you in unique ways around the stage.
 
