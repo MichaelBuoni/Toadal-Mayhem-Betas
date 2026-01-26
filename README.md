@@ -1,4 +1,4 @@
-<img src="images/7d2e47ee-11dc-4681-8572-7737464c2ccc.png" width="1680">
+<img src="images/GIFS/Toadal_Mayhem_Title_Gif.gif" width="1680">
 Welcome! This is the repository for Toadal Mayhem! I (Michael Buoni) have been working on this game mostly by myself since the beginning of August this year.
 
 ## JOIN THE DISCORD SERVER!
@@ -16,10 +16,12 @@ The game also supports custom key remappings which can be found in the pause men
 You can also use game controllers if you have them! If the controller has drivers for windows, it should work as soon as you plug it in. Using a controller will disable the keyboard controls until you disconnect it.
 You can also remap the controls on the controller through the same method.
 
+<img src="images/GIFS/Toadal Mayhem Walljump Gif.gif" width="960">
+
 ### How to Use the Tonguedash Ability
 You can press and hold X to use the ability. Move the tongue around using the arrow keys and the player will follow it once it is fully used up. You have 2 seconds max to move the tongue. Letting go of X before it is over will cause it to end prematurely.
 
-<img src="images/tonguedash_curved.png" width="960">
+<img src="images/GIFS/Toadal Mayhem Tonguedash Gif.gif" width="960">
 
 ## Development Information
 
